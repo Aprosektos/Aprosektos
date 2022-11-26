@@ -29,16 +29,16 @@ class CreateMan extends münür {
     this._coding()
     await this._sleep(18000000)
     
-    this.createDay()
+    münür.createDay()
   }
   
 }
 
 let münür = new CreateMan()
-Astpod.createDay();
+münür.createDay();
 ```
 
-<img src="https://komarev.com/ghpvc/?username=Astpod&label=Ziyaretçi%20Sayısı&color=552b75" alt="Astpod" />
+<img src="https://komarev.com/ghpvc/?username=Aprosektos&label=Ziyaretçi%20Sayısı&color=552b75" alt="Astpod" />
 
 [![Discord Profile](https://lanyard-profile-readme.vercel.app/api/894270550690635846)](https://discord.com/users/894270550690635846)
 
