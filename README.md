@@ -21,9 +21,9 @@
 
 <h2 align="center"> <img src="https://cdn.discordapp.com/emojis/842489729555759175.gif?size=128&quality=lossless" width="30px"> Badges <img src="https://cdn.discordapp.com/emojis/842489729555759175.gif?size=128&quality=lossless" width="30px"> </h2>
 
-<img align="left" alt="Beş" width="26px" src="https://cdn.discordapp.com/attachments/950167988127006821/1045777095957168218/Snapchat-Offical-Lens-Creator-Badge.png" />
- <img align="left" alt="Beş" width="26px" src="https://cdn.discordapp.com/attachments/950167988127006821/1045777834607640646/230x0w.png" />
- <img align="left" alt="Beş" width="26px" src="https://cdn.discordapp.com/emojis/1042377154350043228.png?size=96" />
+<img align="left" münür" width="26px" src="https://cdn.discordapp.com/attachments/950167988127006821/1045777095957168218/Snapchat-Offical-Lens-Creator-Badge.png" />
+ <img align="left" alt="münür" width="26px" src="https://cdn.discordapp.com/attachments/950167988127006821/1045777834607640646/230x0w.png" />
+ <img align="left" alt="münür" width="26px" src="https://cdn.discordapp.com/emojis/1042377154350043228.png?size=96" />
 </br>
 
 <h2 align="center"><img src="https://cdn.discordapp.com/emojis/946129029604474920.gif?size=128&quality=lossless" width="30px"> Profile Stats <img src="https://cdn.discordapp.com/emojis/946129029604474920.gif?size=128&quality=lossless" width="30px"> </h2>
