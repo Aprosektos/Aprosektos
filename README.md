@@ -1,10 +1,37 @@
-- 👋 Hi, I’m @Aprosektos
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+class münür {
+  constructor(...options) {
+    this.height = "1.85"
+    this.weight = "63"
+    this.type = "human"
+    this.job = "coder"
+    this.sex = "male"
+  }
+}
 
-<!---
-Aprosektos/Aprosektos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+class CreateMan extends münür {
+  constructor(...options) {
+    super(options);
+  }
+  
+  private _eating() {
+    void "eating 🍔 🍟 🍗 🥤"
+  }
+  
+  private _coding() {
+    void "coding... ❤️"
+  }
+  
+  private _sleep(ms) { return new Promise(resolve => setTimeout(resolve, ms)) }
+  
+  async createDay() {
+    this._eating()
+    this._coding()
+    await this._sleep(18000000)
+    
+    this.createDay()
+  }
+  
+}
+
+let münür = new CreateMan()
+münür.createDay();
