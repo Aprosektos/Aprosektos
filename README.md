@@ -1,4 +1,4 @@
-``class münür {
+`class münür {
   constructor(...options) {
     this.height = "1.85"
     this.weight = "63"
@@ -35,4 +35,4 @@ class CreateMan extends münür {
 
 let münür = new CreateMan()
 münür.createDay();
-``
+`
