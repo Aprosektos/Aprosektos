@@ -1,15 +1,15 @@
 ```js
-class Astpod {
+class münür {
   constructor(...options) {
     this.height = "1.85"
     this.weight = "63"
     this.type = "human"
-    this.job = "student"
+    this.job = "developer"
     this.sex = "male"
   }
 }
 
-class CreateMan extends Astpod {
+class CreateMan extends münür {
   constructor(...options) {
     super(options);
   }
@@ -34,7 +34,7 @@ class CreateMan extends Astpod {
   
 }
 
-let Astpod = new CreateMan()
+let münür = new CreateMan()
 Astpod.createDay();
 ```
 
@@ -50,13 +50,13 @@ Astpod.createDay();
 - ![](https://img.shields.io/badge/Tools-MongoDB-black?style=flat-square&logo=mongodb&logoColor=cyan)
 
 ## 🧮 Stats
-<a href="https://github.com/Astpod/astpod">
+<a href="https://github.com/Aprosektos/astpod">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astpod&hide=c%2B%2B,c,html&title_color=d6826d&text_color=FF00FF&icon_color=6aa6f8&bg_color=0e1116" alt="Astpod GitHub Stats" />
 </a>
 
 
 ## 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Astpod&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aprosektos&theme=dracula&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
